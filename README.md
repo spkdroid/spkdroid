@@ -1,10 +1,6 @@
 ### Hey, I'm Ramkumar Velmurugan 👋
 
-I am an avid Software developer who believes in rapid prototyping and building a product as quickly as possible to get into the market. I make great products for Android and IOS with best in class user experience and craftsmanship. I have a keen eye on all the layers in the development stack and thrive on building the best user experience possible. I also create rich backend web services for all the different applications to interact with.
-
-My goal in life is to become the best in what I pursue. Apart from developing software products, I actively participate in research work related to computer science. My research areas are Mobile Cloud Computing, Machine learning, Big data analytics, Natural language processing and Mining massive data sets.
-
-Compile ideas to code correctly, quickly and elegantly.
+I am an avid Software developer who believes in rapid prototyping and building a product as quickly as possible to get into the market. I make great products for Android and IOS with best in class user experience and craftsmanship.
 
 To learn more about me, visit my [website](https://spkdroid.com).
 
