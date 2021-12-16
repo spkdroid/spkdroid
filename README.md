@@ -6,7 +6,8 @@ To learn more about me, visit my [website](https://spkdroid.com).
 
 <!-- Image links and URLs -->
 My favorite quote!
-<img src=https://github.com/spkdroid/spkdroid/blob/master/favorite.png/>"
+<br>
+<img src="https://github.com/spkdroid/spkdroid/blob/master/favorite.png/" width="450" height="450"> 
 <!--
 **spkdroid/spkdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
