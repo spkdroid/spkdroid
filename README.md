@@ -5,7 +5,8 @@ I am an avid Software developer who believes in rapid prototyping and building a
 To learn more about me, visit my [website](https://spkdroid.com).
 
 <!-- Image links and URLs -->
-[favquote]: https://github.com/spkdroid/spkdroid/blob/master/favorite.png "My favorite quote!"
+My favorite quote!
+<img src=https://github.com/spkdroid/spkdroid/blob/master/favorite.png/>"
 <!--
 **spkdroid/spkdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
