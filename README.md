@@ -45,5 +45,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spkdroid)](https://github.com/spkdroid/github-readme-stats)
+[![Ramkumar Velmurugan GitHub stats](https://github-readme-stats.vercel.app/api?username=spkdroid)](https://github.com/spkdroid/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spkdroid&layout=compact)](https://github.com/spkdroid/github-readme-stats)
+
 
