@@ -13,7 +13,7 @@ I am an avid Software developer who believes in rapid prototyping and building a
 To learn more about me, visit my [website](https://spkdroid.com).
 
 <p align="center">
-<img  src="/profile.svg" width="1500px" style="background:#161b22;">
+<img  src="/github-user-contribution.svg" width="1500px" style="background:#161b22;">
 </p>
 
 
