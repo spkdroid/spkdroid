@@ -20,34 +20,12 @@ To learn more about me, visit my [website](https://spkdroid.com).
 
 My favorite quote: somewhere something incredible is waiting to be known - Carl Sagan
 
-### Glad to see you here! &nbsp;
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=spkdroid.visitor-badge)
-
 - 🛠 I’m currently working with libraries and tools like: Android X, Android Architecture Components, Java 8, Springboot, SwiftUI, Android AOSP, Coroutines, and another common libraries 💻.
 - 🚀 I’m currently learning Unreal Engine 5 and Quarkus.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/spkdroid).
 - 👾 Fun fact: I love playing computer games :video_game:.
 - 📫 How to reach me: vrk1990@outlook.com
 - 📝 Checkout my [Resume](https://spkdroid.com/).
-
-#
-
-
-
-<!--
-**spkdroid/spkdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Ramkumar Velmurugan GitHub stats](https://github-readme-stats.vercel.app/api?username=spkdroid)](https://github.com/spkdroid/github-readme-stats)
 <br>
