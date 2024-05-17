@@ -12,12 +12,6 @@ I am an avid Software developer who believes in rapid prototyping and building a
 
 To learn more about me, visit my [website](https://spkdroid.com).
 
-<p align="center">
-<img  src="/github-user-contribution.svg" width="1500px" style="background:#161b22;">
-</p>
-
-
-
 My favorite quote: somewhere something incredible is waiting to be known - Carl Sagan
 
 - 🛠 I’m currently working with libraries and tools like: Android X, Android Architecture Components, Java 8, Springboot, SwiftUI, Android AOSP, Coroutines, and another common libraries 💻.
@@ -30,5 +24,3 @@ My favorite quote: somewhere something incredible is waiting to be known - Carl 
 [![Ramkumar Velmurugan GitHub stats](https://github-readme-stats.vercel.app/api?username=spkdroid)](https://github.com/spkdroid/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spkdroid&layout=compact)](https://github.com/spkdroid/github-readme-stats)
-
-
