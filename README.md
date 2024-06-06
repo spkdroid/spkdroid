@@ -8,7 +8,9 @@
 </a>
 <br/>
 
-I am an avid Software developer who believes in rapid prototyping and building a product as quickly as possible to get into the market. I make great products for Android and IOS with best in class user experience and craftsmanship.
+I am an avid Software developer who believes in rapid prototyping and building a product as quickly as possible to get into the market. I make great products for Android, IOS, and Distributed Systems with best in class user experience and craftsmanship.
+
+My research areas are Mobile Cloud Computing, Machine learning, Deep Learning, Big data analytics, Natural language processing and Mining massive data sets.
 
 To learn more about me, visit my [website](https://spkdroid.com).
 
