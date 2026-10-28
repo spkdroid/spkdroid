@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 205" role="img" aria-labelledby="title desc">
+<title id="title">Developer toolkit</title><desc id="desc">Terminal output listing programming languages, frameworks, and tools.</desc>
+<rect width="900" height="205" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="18">
+<text x="28" y="43" fill="#7ee787">➜</text><text x="53" y="43" fill="#c9d1d9">cat toolkit.txt</text>
+<text x="28" y="84" fill="#8b949e">languages</text><text x="192" y="84" fill="#e6edf3">Kotlin · Java · Swift · TypeScript · Python</text>
+<text x="28" y="122" fill="#8b949e">frameworks</text><text x="192" y="122" fill="#79c0ff">Android · Compose · Angular · Spring Boot</text>
+<text x="28" y="160" fill="#8b949e">platforms</text><text x="192" y="160" fill="#e6edf3">AOSP · iOS · Docker · SQL · Git</text>
+<text x="28" y="190" fill="#7ee787" font-size="14">✓ ready to build</text>
+</g></svg>

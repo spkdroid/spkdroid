@@ -1,28 +1,27 @@
-### Hey, I'm Ramkumar Velmurugan 👋
+<p align="center">
+  <img src="assets/terminal-header.svg" width="100%" alt="Terminal introduction: Ramkumar Velmurugan" />
+</p>
 
-<a href="https://www.linkedin.com/in/vrk1990/">
-  <img align="left" alt="Ramkumar Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/spkdroid">
-  <img align="left" alt="Ramkumar Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/>
+I build mobile apps, backend services, and developer tools. My background includes Android platform development, iOS, authentication systems, and distributed software.
 
-I am an avid Software developer who believes in rapid prototyping and building a product as quickly as possible to get into the market. I make great products for Android, IOS, and Distributed Systems with best in class user experience and craftsmanship.
+I enjoy getting ideas into working prototypes, understanding how systems behave under the hood, and making software that people can actually use.
 
-My research areas are Mobile Cloud Computing, Machine learning, Deep Learning, Big data analytics, Natural language processing and Mining massive data sets.
+### A little about my work
 
-To learn more about me, visit my [website](https://spkdroid.com).
+- **Mobile:** Android, AOSP, Jetpack Compose, and iOS development.
+- **Backend:** APIs, authentication, Spring Boot, and distributed systems.
+- **Currently exploring:** AI-assisted development, developer productivity, and new approaches to software architecture.
 
-My favorite quote: somewhere something incredible is waiting to be known - Carl Sagan
+### Toolkit
 
-- 🛠 I’m currently working with libraries and tools like: Android X, Android Architecture Components, Java 8, Springboot, SwiftUI, Android AOSP, Coroutines, and another common libraries 💻.
-- 🚀 I’m currently learning Unreal Engine 5 and Quarkus.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/spkdroid).
-- 👾 Fun fact: I love playing computer games :video_game:.
-- 📫 How to reach me: vrk1990@outlook.com
-- 📝 Checkout my [Resume](https://spkdroid.com/).
+<p align="center">
+  <img src="assets/stack-terminal.svg" width="100%" alt="Programming languages and frameworks shown in a terminal" />
+</p>
 
-[![Ramkumar Velmurugan GitHub stats](https://github-readme-stats.vercel.app/api?username=spkdroid)](https://github.com/spkdroid/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spkdroid&layout=compact)](https://github.com/spkdroid/github-readme-stats)
+### Find me online
+
+[Website](https://spkdroid.com) · [GitHub](https://github.com/spkdroid) · [LinkedIn](https://www.linkedin.com/in/vrk1990/) · [Email](mailto:vrk1990@outlook.com)
+
+---
+
+*“Somewhere, something incredible is waiting to be known.”* — Carl Sagan

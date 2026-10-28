@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
+<title id="title">Ramkumar Velmurugan terminal introduction</title>
+<desc id="desc">Terminal window introducing Ramkumar Velmurugan as a software developer specializing in mobile and backend systems.</desc>
+<rect width="900" height="310" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="898" height="308" rx="15" fill="none" stroke="#30363d" stroke-width="2"/>
+<path d="M16 1 H884 Q899 1 899 16 V48 H1 V16 Q1 1 16 1" fill="#161b22"/>
+<circle cx="27" cy="24" r="7" fill="#ff5f56"/><circle cx="50" cy="24" r="7" fill="#ffbd2e"/><circle cx="73" cy="24" r="7" fill="#27c93f"/>
+<text x="450" y="30" fill="#8b949e" font-family="monospace" font-size="14" text-anchor="middle">ramkumar — ~/profile</text>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="20">
+<text x="32" y="91" fill="#7ee787">➜</text><text x="58" y="91" fill="#c9d1d9">whoami</text>
+<text x="32" y="128" fill="#f0f6fc" font-size="28" font-weight="bold">Ramkumar Velmurugan</text>
+<text x="32" y="160" fill="#8b949e" font-size="17">Software Developer · Mobile &amp; Backend Engineering</text>
+<text x="32" y="207" fill="#7ee787">➜</text><text x="58" y="207" fill="#c9d1d9">cat interests.txt</text>
+<text x="32" y="240" fill="#79c0ff" font-size="17">Android / iOS / Distributed Systems / Developer Tools</text>
+<text x="32" y="280" fill="#7ee787">➜</text><rect x="58" y="263" width="11" height="21" fill="#a5d6ff"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</g></svg>
